@@ -19,7 +19,7 @@ export default function Home() {
       <div className="stars">
         {Array.from({ length: STAR_COUNT }).map((_, i) => (
           <div
-          
+        
             key={i}
             className="star"
             style={{
