@@ -1,6 +1,6 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css"; 
-import JoyBot from "./components/JoyBot"; 
+import JoyBot from '../components/JoyBot"; '
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
